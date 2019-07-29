@@ -1,5 +1,5 @@
 {
-  "name": "rest-api-tutorial",
+  "name": "ccapi",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/makinhs/rest-api-tutorial.git"
+    "url": "git+https://github.com/core-chain-io/cc-api/.git"
   },
-  "author": "",
+  "author": "itxlieni",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/makinhs/rest-api-tutorial/issues"
+    "url": "https://github.com/core-chain-io/cc-api/issues"
   },
-  "homepage": "https://github.com/makinhs/rest-api-tutorial#readme",
+  "homepage": "https://github.com/core-chain-io/cc-api/#readme",
   "dependencies": {
     "body-parser": "1.7.0",
     "express": "^4.8.7",
